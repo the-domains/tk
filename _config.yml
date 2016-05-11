@@ -1,7 +1,7 @@
 name: TK
 favicon: null
-layout_spectrum: 0.25040807807818055
-typography_spectrum: 0.6785105867311358
+layout_spectrum: 1
+typography_spectrum: 0.06623
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#9D2D3C'
-    - '#DDE4DD'
-    - '#BCAB47'
-    - '#6B574B'
-    - '#160600'
-  brandStrength: 0.37546539050526917
+    - '#053e49'
+    - '#a6b5d6'
+    - '#7587ab'
+    - '#0b0800'
+    - '#9b5c5a'
+  brandStrength: 0
   lightness: 0.6901517568621784
-  saturation: 0.32336160144768655
-  rhythmicContrast: 0.17232668190263212
+  saturation: 0.25
+  rhythmicContrast: 0.5
 purpose: []
